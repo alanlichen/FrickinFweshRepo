@@ -2,4 +2,4 @@
 # FrickinFweshRepo
 Some Frickin Fwesh Repo just4Fun
 
-<video src="https://yonle.github.io/RickRoll.js/vid.mp4" autoplay controls></video>
+<video src="https://www.youtube.com/watch?v=dQw4w9WgXcQ" autoplay controls></video>
